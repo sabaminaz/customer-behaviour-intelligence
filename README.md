@@ -153,6 +153,6 @@ pip install -r requirements.txt
 ---
 
 ##  Author
-**Saba Minaz Taj**  
+**Saba Minaz Taj** <br>
 **Harsha Venkateshwara**
 **Sphoorthy Selvaraj**
